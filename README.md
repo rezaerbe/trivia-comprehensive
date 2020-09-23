@@ -18,11 +18,11 @@ https://raw.githubusercontent.com/curiousily/simple-quiz/master/script/statement
 
 ## Screenshots
 
-![T](https://raw.githubusercontent.com/rezaerbe/trivia-comprehensive/master/T.jpg)
+![T](https://raw.githubusercontent.com/rezaerbe/trivia-comprehensive/master/T.jpg?raw=true)
 
-![TC](https://raw.githubusercontent.com/rezaerbe/trivia-comprehensive/master/TC.jpg)
+![TC](https://raw.githubusercontent.com/rezaerbe/trivia-comprehensive/master/TC.jpg?raw=true)
 
-![TW](https://raw.githubusercontent.com/rezaerbe/trivia-comprehensive/master/TW.jpg)
+![TW](https://raw.githubusercontent.com/rezaerbe/trivia-comprehensive/master/TW.jpg?raw=true)
 
 ## Reference
 
