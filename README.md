@@ -18,15 +18,15 @@ https://raw.githubusercontent.com/curiousily/simple-quiz/master/script/statement
 
 ## Screenshots
 
-<img src="https://raw.githubusercontent.com/rezaerbe/trivia-comprehensive/master/T.jpg?raw=true" alt="T" style="zoom:50%;" />
+<img src="https://raw.githubusercontent.com/rezaerbe/trivia-comprehensive/master/T.jpg?raw=true" alt="T" width=300 />
 
 
 
-<img src="https://raw.githubusercontent.com/rezaerbe/trivia-comprehensive/master/TC.jpg?raw=true&" alt="TC" style="zoom:50%;" />
+<img src="https://raw.githubusercontent.com/rezaerbe/trivia-comprehensive/master/TC.jpg?raw=true&" alt="TC" width=300 />
 
 
 
-<img src="https://raw.githubusercontent.com/rezaerbe/trivia-comprehensive/master/TW.jpg?raw=true&" alt="TW" style="zoom:50%;" />
+<img src="https://raw.githubusercontent.com/rezaerbe/trivia-comprehensive/master/TW.jpg?raw=true&" alt="TW" width=300 />
 
 ## Reference
 
